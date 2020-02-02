@@ -37,7 +37,7 @@ Open a terminal and
 
 ## Local notebook
 
-Get started on this RAMP with the [notebook](https://github.com/teddahbi/DataCamp/blob/master/Diabetes_Obesity_starting_kit.ipynb).
+Get started on this RAMP with the [notebook](https://github.com/teddahbi/Diabetes_Obesity_starting_kit/blob/master/Diabetes_Obesity_starting_kit.ipynb).
 
 To test the starting-kit, run
 
